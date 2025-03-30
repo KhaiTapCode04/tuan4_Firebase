@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTHSmartTasks</string>
+    <string name="app_logo">App Logo</string>
+    <string name="back_button">Back</string>
+    <string name="edit_profile_picture">Edit Profile Picture</string>
+    <string name="default_web_client_id">2749575996-dhknsv48lfq22muecitiuro3gffrvno1.apps.googleusercontent.com</string>
+</resources>
